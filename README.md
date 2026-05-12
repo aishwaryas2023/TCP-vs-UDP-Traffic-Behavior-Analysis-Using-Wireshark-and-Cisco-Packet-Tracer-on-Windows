@@ -275,3 +275,13 @@ Future improvements could include:
 
 5. Mockapetris, P. (1987). Domain Names – Concepts and Facilities  
    RFC 1034 and RFC 1035, Internet Engineering Task Force (IETF)
+
+---
+
+## License
+
+This project is licensed under the MIT License.
+
+You are free to use, modify, and distribute this project for educational or research purposes, provided that proper credit is given to the original authors.
+
+See the LICENSE file for full license details.
