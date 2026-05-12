@@ -1,21 +1,10 @@
 # TCP vs UDP Traffic Behavior Analysis for Internet Applications Using Wireshark and Cisco Packet Tracer on Windows
 
-## School of Electronics Engineering (SENSE)
-**Project Based Learning (CAMP) Report**
-
-**Course Code / Name:** BECE411L – Computer Communications and Networks  
-**Program / Year:** B.Tech (Electronics and Communication Engineering)
-
-**Last Date for Report Submission:** 15.04.2026  
-**Date of Submission:** 15.04.2026  
-
 ### Team Members
 | Register No | Name |
 |--------------|------|
 | 23BEC1047 | S. Aishwarya |
 | 23BEC1051 | S. Harini |
-
-**Course Handler:** Dr. T. Jayavignesh
 
 ---
 
