@@ -278,7 +278,7 @@ Future improvements could include:
 
 ---
 
-## License
+# License
 
 This project is licensed under the MIT License.
 
