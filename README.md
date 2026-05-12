@@ -19,7 +19,7 @@ Comparative analysis of TCP and UDP traffic using Wireshark and Cisco Packet Tra
 ## Project Presentation
 All screenshots, packet analysis, and demonstration of the network setup are included in the presentation file.
 
-File: [CCN CHAMP Project_recent.pdf](CCN%20CHAMP%20PROJECT_recent.pdf)
+File: [CCN CHAMP Project_recent.pdf](CCN%20CHAMP%20Project_recent.pdf)
 
 ## Network Simulation
 The Cisco Packet Tracer topology used for this project is included.
