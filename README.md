@@ -1,0 +1,2 @@
+# TCP-vs-UDP-Traffic-Behavior-Analysis-Using-Wireshark-and-Cisco-Packet-Tracer-on-Windows
+Comparative analysis of TCP and UDP traffic using Wireshark and Cisco Packet Tracer. The project simulates a network to observe DNS, HTTP communication, TCP three-way handshake, and UDP packet flow, analyzing reliability, delay, and throughput to understand transport layer protocol behavior in real-world internet applications.
