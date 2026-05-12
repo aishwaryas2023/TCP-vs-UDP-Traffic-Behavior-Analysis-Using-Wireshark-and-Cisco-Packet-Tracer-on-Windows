@@ -8,6 +8,30 @@
 
 ---
 
+## Description
+Comparative analysis of TCP and UDP traffic using Wireshark and Cisco Packet Tracer. The project simulates a network to observe DNS, HTTP communication, TCP three-way handshake, and UDP packet flow to understand transport layer protocol behavior in real internet applications.
+
+## Tools Used
+- Wireshark
+- Cisco Packet Tracer
+- Windows OS
+
+## Project Presentation
+All screenshots, packet analysis, and demonstration of the network setup are included in the presentation file.
+File: CCN CHAMP PROJECT_recent.pdf
+
+## Network Simulation
+The Cisco Packet Tracer topology used for this project is included.
+File: packet_tracer/Proj.pkt
+
+---
+
+## Packet Capture
+Wireshark capture files used for analyzing TCP and UDP behavior.
+File: CCN_PROJECT1.pcapng
+
+---
+
 # Table of Contents
 1. Abstract  
 2. Introduction  
